@@ -48,6 +48,9 @@ Diese Einschränkungen sind hardwarebedingt.
 AliExpress:  
 [M5Stack Offizielles ATOM Echo ESP32 Smart Speaker Development Kit](https://s.click.aliexpress.com/e/_EHiV3vI)
 
+3D-Druck:
+[M5Stack Atom Serie - Displayhalterung](https://makerworld.com/de/models/560405-m5stack-atom-series-display-mount?from=search#profileId-479672)
+
 ---
 
 ## Technische Parameter
